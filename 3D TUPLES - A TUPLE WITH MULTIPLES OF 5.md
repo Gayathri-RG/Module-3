@@ -2,7 +2,7 @@
 ## TUPLES - A TUPLE WITH MULTIPLES OF 5
 
 ---
-
+ 
 ### AIM  
 To write a Python program to create a tuple containing all multiples of 5 up to a given number **N**.
 
